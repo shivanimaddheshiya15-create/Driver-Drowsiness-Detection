@@ -98,3 +98,6 @@ This is an educational prototype and is not a certified vehicle safety system. I
 **Shivani Maddheshiya**
 
 GitHub: [shivanimaddheshiya15-create](https://github.com/shivanimaddheshiya15-create)
+## 📸 Project Screenshots
+
+![Driver Drowsiness Detection Dashboard](screenshots/dashboard.png)
